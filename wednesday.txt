@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello good morning
+=======
+ihfoiahfoalfnaoi flapfaf japos;fj aposjf [asjf [aosjf poa;sf asf as as
+>>>>>>> 1b66c66efdb16fb40fce1365f7161f14a676795a
